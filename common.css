@@ -1,0 +1,14 @@
+#navbar{
+    display: flex;
+    justify-content: space-around;
+    font-size: 50px;
+    background-color: rgb(57, 235, 247);
+}
+
+#navbar div{
+    color: rgb(219, 12, 12);
+}
+
+#investorform{
+    margin: 30px;
+}
